@@ -1,0 +1,13 @@
+#Write a program which accepts marks and displays grade.
+
+def Grade(marks):
+    if marks >= 75:
+        print("Distinction")
+    elif marks >= 60:
+        print("First class")
+    elif marks >= 50:
+        print("Second class")
+    else:
+        print("Fail")
+
+Grade(82)
