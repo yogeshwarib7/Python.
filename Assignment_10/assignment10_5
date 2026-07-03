@@ -1,0 +1,7 @@
+#Write a program which accepts one number and prints all odd numbers till that number.
+
+def Odd(no):
+    for i in range(1,no+1,2):
+        print(i)
+
+Odd(10)
