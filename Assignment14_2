@@ -1,0 +1,5 @@
+#Write a lambda function which accepts one number and returns cube of that number.
+
+cube = lambda X:X*X*X
+
+print(cube(5))
