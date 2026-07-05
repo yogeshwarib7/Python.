@@ -1,5 +1,0 @@
-#Write a lambda function which accepts one number and returns True if number is even otherwise False.
-
-even = lambda X:X % 2 == 0
-
-print(even(10))
