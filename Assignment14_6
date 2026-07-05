@@ -1,5 +1,0 @@
-#Write a lambda function which accepts one number and returns Tue if number is odd otherwise False.
-
-odd = lambda X:X % 2 != 0
-
-print(odd(11))
